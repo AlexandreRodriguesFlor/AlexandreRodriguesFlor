@@ -9,6 +9,7 @@ Sobre mim:
 - 🌱 Estudante de Analise de dados 
 - 🤓 Cientista de Dados aspirante
 
+<br>
 
 Principais Ferramentas:
 
@@ -18,13 +19,16 @@ Principais Ferramentas:
 <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 </div>
 
+<br>
 
 Onde podem me encontrar:
 <div>
   <a href="https://www.linkedin.com/in/alexandre-rodrigues-analista-de-dados/"> 
-   <img height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+   <img height="40" width="40"  src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+ </a>
   <a href="https://www.instagram.com/alexandredgod/"> 
-   <img height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
+   <img height="40" width="40"  src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
  </a>
 </div>
 
+<br><br>
