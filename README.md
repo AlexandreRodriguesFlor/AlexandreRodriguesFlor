@@ -49,3 +49,5 @@ Principais desafios: <br>
 <a href="https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2/blob/main/IMAGENS/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 
 
+
+
