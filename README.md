@@ -45,7 +45,7 @@ Principais desafios: <br>
 <br>
 <br>
 <a href="https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2"> Clique aqui</a> para acessar o repositório no Github
-
-
+<br>
+<a href="https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2/blob/main/IMAGENS/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 
 
