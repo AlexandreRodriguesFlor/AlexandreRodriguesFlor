@@ -1,4 +1,4 @@
-### Hello world, I'm Alexandre👋
+### Olá, eu sou o Alexandre 👋
 
 ## Analista em Business Intelligence,  <br> Administrador em Análise de Dados
 
@@ -9,6 +9,22 @@ Sobre mim:
 - 🌱 Estudante de Analise de dados 
 - 🤓 Cientista de Dados aspirante
 
-- ![Texto Alternativo](https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2/blob/main/IMAGENS/Captura%20de%20tela%202023-12-02%20143416.png?raw=true)
 
-  <img src="https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2/blob/main/IMAGENS/Captura%20de%20tela%202023-12-02%20143416.png?raw=true">
+Principais Ferramentas:
+
+<div>
+<img align="center" alt="Python" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/python.png?raw=true">
+<img align="center" alt="SQL" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/sql.png?raw=true">
+<img align="center" alt="Power BI" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+</div>
+
+
+Onde podem me encontrar:
+<div>
+  <a href="https://www.linkedin.com/in/alexandre-rodrigues-analista-de-dados/"> 
+   <img height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  <a href="https://www.instagram.com/alexandredgod/"> 
+   <img height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
+ </a>
+</div>
+
